@@ -1,0 +1,5 @@
+blue_out/
+blue_sim/
+verilog_out/
+dump.vcd
+goSim*
